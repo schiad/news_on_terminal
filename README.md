@@ -10,11 +10,11 @@ Internet and make the file executable
 
 ## Make it execuable
 
-chmod +x ./news.sh
+chmod +x ./info.sh
 
 
 ## Usage
 
-./news.sh
+./info.sh
 
 
